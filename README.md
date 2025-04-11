@@ -39,13 +39,3 @@ A classic **Tic-Tac-Toe game** implemented in **C**, where a human player compet
 ![image](https://github.com/user-attachments/assets/2e75b8c0-8951-4c70-987a-fb8356e33544)  ![image](https://github.com/user-attachments/assets/42f48eb8-e1e4-4048-ada1-12081b85b5e5)
 ![image](https://github.com/user-attachments/assets/144bc883-fbea-437a-8004-333f716f0221)
 
-
-
----
-
-## ✅ How to Run
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/sumitra-pradhan/tic-tac-toe-c.git
-   cd tic-tac-toe-c
