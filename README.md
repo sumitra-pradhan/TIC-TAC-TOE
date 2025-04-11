@@ -36,8 +36,7 @@ A classic **Tic-Tac-Toe game** implemented in **C**, where a human player compet
 ---
 
 ## 📷 Screenshot
-
-> (You can add a terminal screenshot of the game here.)
+![image](https://github.com/user-attachments/assets/b7797662-8ec4-4fa2-b0ec-d1c024109ec7)
 
 ---
 
